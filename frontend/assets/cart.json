@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Management",
+    "title": "Course 2",
+    "instructor": "Trainer 2",
+    "description": "This is course 2",
+    "price": 200
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Management",
+    "title": "Course 2",
+    "instructor": "Trainer 2",
+    "description": "This is course 2",
+    "price": 200
+  }
+]

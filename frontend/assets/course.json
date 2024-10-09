@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Programming",
+    "title": "Course 1",
+    "instructor": "Trainer 1",
+    "description": "This is course 1",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Management",
+    "title": "Course 2",
+    "instructor": "Trainer 2",
+    "description": "This is course 2",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Programming",
+    "title": "Course 3",
+    "instructor": "Trainer 3",
+    "description": "This is course 3",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Marketing",
+    "title": "Course 4",
+    "instructor": "Trainer 4",
+    "description": "This is course 4",
+    "price": 400
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://via.placeholder.com/150",
+    "category": "Marketing",
+    "title": "Course 5",
+    "instructor": "Trainer 5",
+    "description": "This is course 5",
+    "price": 500
+  }
+]

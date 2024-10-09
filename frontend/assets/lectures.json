@@ -1,0 +1,90 @@
+[
+  {
+    "courseId": 1,
+    "userId": 1,
+    "lastOpened": 2,
+    "progress": 0.5,
+    "sections": [
+      {
+        "sectionName": "Introduction",
+        "index": 0,
+        "lectures": [
+          {
+            "lectureName": "Introduction to the course",
+            "index": 0,
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "completed": true
+          },
+          {
+            "lectureName": "What is React?",
+            "index": 1,
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "sectionName": "React Basics",
+        "index": 1,
+        "lectures": [
+          {
+            "lectureName": "Setting up the environment",
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "index": 0,
+            "completed": true
+          },
+          {
+            "lectureName": "Creating your first React app",
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "index": 1,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": 2,
+    "userId": 1,
+    "lastOpened": 1,
+    "progress": 0.2,
+    "sections": [
+      {
+        "sectionName": "Introduction",
+        "index": 0,
+        "lectures": [
+          {
+            "lectureName": "Introduction to the course",
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "completed": true,
+            "index": 0
+          },
+          {
+            "lectureName": "What is Node.js?",
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "completed": false,
+            "index": 1
+          }
+        ]
+      },
+      {
+        "sectionName": "Node.js Basics",
+        "index": 1,
+        "lectures": [
+          {
+            "lectureName": "Setting up the environment",
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "completed": true,
+            "index": 0
+          },
+          {
+            "lectureName": "Creating your first Node.js app",
+            "lectureUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "completed": false,
+            "index": 1
+          }
+        ]
+      }
+    ]
+  }
+]

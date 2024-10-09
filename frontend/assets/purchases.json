@@ -1,0 +1,16 @@
+[
+  {
+    "userId": 1,
+    "purchaseDate": "2020-01-01",
+    "purchaseId": 1,
+    "courseIds": [1, 2, 3],
+    "totalPrice": 900
+  },
+  {
+    "userId": 1,
+    "purchaseDate": "2020-01-03",
+    "purchaseId": 2,
+    "courseIds": [4, 5],
+    "totalPrice": 600
+  }
+]

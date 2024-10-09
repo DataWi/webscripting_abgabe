@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "ownedCourseIds": [5, 4, 3],
+    "name": "John Doe",
+    "purchaseIds": [1, 2, 3],
+    "email": "asdasd@aasasd",
+    "cart": [],
+    "admin": true
+  },
+  {
+    "id": 2,
+    "ownedCourseIds": [1, 2, 3],
+    "cart": [],
+    "purchaseIds": [4, 5],
+    "name": "Jane Doe",
+    "email": "asdasd@aasasd",
+    "admin": false
+  },
+  {
+    "ownedCourseIds": [1, 2, 3],
+    "cart": [],
+    "id": 3,
+    "purchaseIds": [1, 2],
+    "name": "John Doe",
+    "email": "asdasd@aasasd",
+    "admin": true
+  }
+]
